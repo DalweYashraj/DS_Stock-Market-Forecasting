@@ -1,10 +1,10 @@
-# Data-Science-Project
+# Data-Science-Project : STOCK FORECASTING
 
-Objective: 	Data science approach to stock prices forecasting & prediction of TATA MOTORS Ltd. stock using Long Short-Term Memory (LSTM) model.
+Objective: Data science approach to stock prices forecasting & prediction of TATA MOTORS Ltd. stock using Long Short-Term Memory (LSTM) model.
 
 Introduction :
 
-	Stock market prediction is the act of trying to determine the future value of company stock or other financial instruments traded on an exchange. The successful prediction of a stock’s future price could yield a significant profit. In this application, we used the LSTM network to predict the next single day as well as next 10 days closing stock price using the past 10 years stock prices. We have imported few libraries for stock market forecasting and they are namely as : pandas,numpy,matplotlib,plotly,datetime to get stock information & data visualization purpose.
+Stock market prediction is the act of trying to determine the future value of company stock or other financial instruments traded on an exchange.The successful prediction of a stock’s future price could yield a significant profit. In this application, we used the LSTM network to predict the next single day as well as next 10 days closing stock price using the past 10 years stock prices. We have imported few libraries for stock market forecasting and they are namely as : pandas,numpy,matplotlib,plotly,datetime to get stock information & data visualization purpose.
 
 
 ---> What is Time-Series?
